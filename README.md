@@ -1,4 +1,4 @@
-# Olympics-Figure-Skating-Prediction-2022
+# Olympics Figure Skating Prediction 2022
 
 •	Extracted the records of top 5 figure skating performing countries using Web scrapping
 
